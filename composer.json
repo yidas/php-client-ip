@@ -1,0 +1,16 @@
+{
+    "name": "yidas/client-ip",
+    "description": "Get client IP with safe and coincident way from server even behind Proxy or Load-Balancer",
+    "keywords": ["ip", "real ip", "client ip", "proxy ip", "loadbalancer ip"],
+    "homepage": "https://github.com/yidas/php-client-ip",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/yidas/php-client-ip/issues",
+        "source": "https://github.com/yidas/php-client-ip"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
