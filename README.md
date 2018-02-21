@@ -134,9 +134,9 @@ DISCUSSION
 
 The another way to fetch real IP is implemnet from the Web server side:
 
-[Nginx: ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html)
+- [Nginx: ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html)
 
-[Apache: mod_remoteip](https://httpd.apache.org/docs/trunk/mod/mod_remoteip.html)
+- [Apache: mod_remoteip](https://httpd.apache.org/docs/trunk/mod/mod_remoteip.html)
 
 
 
