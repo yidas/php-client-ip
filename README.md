@@ -125,4 +125,22 @@ ClientIP::config([
 |proxyIPs   |array  |Trust Proxies' IP list, which support subnet mask for each IP set.|
 |headerKeys |array  |Header Key list for IP Forward.|
 
+---
+
+DISCUSSION
+----------
+
+### Implement from Web Server
+
+The another way to fetch real IP is implemnet from the Web server side:
+
+[Nginx: ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html)
+
+[Apache: mod_remoteip](https://httpd.apache.org/docs/trunk/mod/mod_remoteip.html)
+
+
+
+
+
+
 
