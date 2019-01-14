@@ -4,8 +4,9 @@
 Get client IP with safe and coincident way from server even behind Proxy or Load-Balancer.
 
 [![Latest Stable Version](https://poser.pugx.org/yidas/client-ip/v/stable?format=flat-square)](https://packagist.org/packages/yidas/client-ip)
-[![Latest Unstable Version](https://poser.pugx.org/yidas/client-ip/v/unstable?format=flat-square)](https://packagist.org/packages/yidas/client-ip)
 [![License](https://poser.pugx.org/yidas/client-ip/license?format=flat-square)](https://packagist.org/packages/yidas/client-ip)
+[![Total Downloads](https://poser.pugx.org/yidas/client-ip/downloads?format=flat-square)](https://packagist.org/packages/yidas/client-ip)
+[![Monthly Downloads](https://poser.pugx.org/yidas/client-ip/d/monthly?format=flat-square)](https://packagist.org/packages/yidas/client-ip)
 
 Real IP implement on Web application, which solve the problem that the server receiving requests through trust proxies or load-balancers without Transparent-Mode.
 
